@@ -9,7 +9,7 @@ export const facts: Fact[] = [
     },
     {
         id: '2',
-        text: 'A hummingbird’s heart can beat over 1,200 times per minute during flight, making it one of the fastest heart rates among vertebrates.',
+        text: 'A hummingbird\'s heart can beat over 1,200 times per minute during flight, making it one of the fastest heart rates among vertebrates.',
         imageKeyword: 'hummingbird wings',
         category: 'animals',
     },
@@ -21,7 +21,7 @@ export const facts: Fact[] = [
     },
     {
         id: '4',
-        text: 'Long-tailed tits practice cooperative breeding, meaning related adults often help raise each other’s offspring if their own nests fail.',
+        text: 'Long-tailed tits practice cooperative breeding, meaning related adults often help raise each other\'s offspring if their own nests fail.',
         imageKeyword: 'long-tailed tit',
         category: 'animals',
     },
@@ -129,7 +129,7 @@ export const facts: Fact[] = [
     },
     {
         id: '22',
-        text: 'Emmy Noether’s theorem demonstrated that every continuous symmetry in nature corresponds to a conservation law, fundamentally shaping modern theoretical physics.',
+        text: 'Emmy Noether\'s theorem demonstrated that every continuous symmetry in nature corresponds to a conservation law, fundamentally shaping modern theoretical physics.',
         imageKeyword: 'chalkboard equations',
         category: 'important women',
     },
@@ -249,7 +249,7 @@ export const facts: Fact[] = [
     },
     {
         id: '42',
-        text: 'After World War II, Yugoslavia established one of the Non-Aligned Movement’s founding leadership roles, positioning itself between Western and Eastern blocs.',
+        text: 'After World War II, Yugoslavia established one of the Non-Aligned Movement\'s founding leadership roles, positioning itself between Western and Eastern blocs.',
         imageKeyword: 'non aligned movement conference',
         category: 'yugoslav history',
     },
@@ -273,7 +273,7 @@ export const facts: Fact[] = [
     },
     {
         id: '46',
-        text: 'Emmy Noether’s work laid the mathematical foundation for gauge theory, which underpins the Standard Model of particle physics.',
+        text: 'Emmy Noether\'s work laid the mathematical foundation for gauge theory, which underpins the Standard Model of particle physics.',
         imageKeyword: 'math chalkboard',
         category: 'important women',
     },
@@ -423,7 +423,7 @@ export const facts: Fact[] = [
     },
     {
         id: '71',
-        text: 'Yugoslavia’s automobile industry symbolized post-war modernization, and the Yugo became one of the few exports reaching Western Europe and the US.',
+        text: 'Yugoslavia\'s automobile industry symbolized post-war modernization, and the Yugo became one of the few exports reaching Western Europe and the US.',
         imageKeyword: 'yugo on road',
         category: 'yugoslav history',
     },
@@ -441,7 +441,7 @@ export const facts: Fact[] = [
     },
     {
         id: '74',
-        text: 'The Yugo’s design drew inspiration from Western compact cars but incorporated locally sourced materials and simplified assembly methods.',
+        text: 'The Yugo\'s design drew inspiration from Western compact cars but incorporated locally sourced materials and simplified assembly methods.',
         imageKeyword: 'yugo factory',
         category: 'yugoslav history',
     },
@@ -495,19 +495,19 @@ export const facts: Fact[] = [
     },
     {
         id: '83',
-        text: 'Ada Lovelace, often considered the first computer programmer, wrote algorithms for Charles Babbage’s Analytical Engine in the 1840s, long before actual computers existed.',
+        text: 'Ada Lovelace, often considered the first computer programmer, wrote algorithms for Charles Babbage\'s Analytical Engine in the 1840s, long before actual computers existed.',
         imageKeyword: 'analytical engine',
         category: 'important women',
     },
     {
         id: '84',
-        text: 'The programming language Python was named after “Monty Python’s Flying Circus,” not the snake, reflecting its creator’s sense of humor.',
+        text: 'The programming language Python was named after “Monty Python\'s Flying Circus,” not the snake, reflecting its creator\'s sense of humor.',
         imageKeyword: 'python logo',
         category: 'programming',
     },
     {
         id: '85',
-        text: 'Katherine Johnson, the mathematician behind NASA’s orbital calculations, manually computed trajectories that helped send astronauts safely to space.',
+        text: 'Katherine Johnson, the mathematician behind NASA\'s orbital calculations, manually computed trajectories that helped send astronauts safely to space.',
         imageKeyword: 'nasa calculations',
         category: 'important women',
     },
@@ -561,7 +561,7 @@ export const facts: Fact[] = [
     },
     {
         id: '94',
-        text: 'The first programming “loop” concept was described by Ada Lovelace as a way for Babbage’s Analytical Engine to repeat a sequence of operations.',
+        text: 'The first programming “loop” concept was described by Ada Lovelace as a way for Babbage\'s Analytical Engine to repeat a sequence of operations.',
         imageKeyword: 'ada lovelace diagram',
         category: 'programming',
     },
