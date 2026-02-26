@@ -585,7 +585,7 @@ export const facts: Fact[] = [
     },
     {
         id: '98',
-        text: 'Suffragist Emmeline Pankhurst once organized a “human chain” around the British Parliament to demonstrate women’s determination for the vote in 1907.',
+        text: 'Suffragist Emmeline Pankhurst once organized a “human chain” around the British Parliament to demonstrate women\'s determination for the vote in 1907.',
         imageKeyword: 'suffragette march',
         category: 'important women',
     },
