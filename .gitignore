@@ -31,3 +31,6 @@ yarn-error.log*
 
 # Vercel
 .vercel
+
+# Personal files
+commands.md
