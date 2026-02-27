@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { DailyFactResponse } from '@/types/fact';
+import CategoryTag from '@/components/CategoryTag';
 
 export default function Home() {
   const [dailyFact, setDailyFact] = useState<DailyFactResponse | null>(null);
@@ -39,12 +40,6 @@ export default function Home() {
     if (textLength < 200) return 'text-2xl';
     return 'text-xl';
   };
-
-  const toTitleCase = (value: string): string =>
-    value
-      .split(' ')
-      .map((word) => (word ? `${word[0].toUpperCase()}${word.slice(1)}` : ''))
-      .join(' ');
 
   if (loading) {
     return (
@@ -107,9 +102,7 @@ export default function Home() {
             {fact.text}
           </p>
           <div className="flex items-center gap-4">
-            <span className="bg-blue-600 text-white px-4 py-2 rounded text-sm font-medium">
-              {toTitleCase(fact.category)}
-            </span>
+            <CategoryTag category={fact.category} />
             <span className="text-white text-sm font-medium">{date}</span>
           </div>
         </div>
