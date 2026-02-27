@@ -471,8 +471,8 @@ export const facts: Fact[] = [
     },
     {
         id: '79',
-        text: 'The Yugo achieved a sort of cult status in pop culture for its quirky design and simplicity, inspiring both affection and humor among car enthusiasts.',
-        imageKeyword: 'yugo retro',
+        text: 'Yugoslav animated films from the Zagreb School of Animation won over 400 international awards, pioneering a distinctive visual style that influenced animation worldwide in the 1960s and 1970s.',
+        imageKeyword: 'animated film production',
         category: 'yugoslav history',
     },
     {
